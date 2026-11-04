@@ -1,3 +1,0 @@
-# Actions of the game => keys / pad / touch. The engine already defines up, down, left, right, confirm, back, pause.
-actions:
-  restart: [R, pad0:x]
